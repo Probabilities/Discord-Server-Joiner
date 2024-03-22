@@ -9,7 +9,7 @@
 </div>
 
 ## 📍 About
-This is a Discord Server Joiner & Verified (Server Verifier). It can be used to mass join and to create filled tokens.
+This is a Discord Server Joiner & Verifier (Server Verifier). It can be used to mass join and to create filled tokens.
 
 ![authento](https://i.imgur.com/nQOcXc9.png)
 
